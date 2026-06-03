@@ -87,7 +87,7 @@ export default function CodingProfiles() {
 
                             <div className="rounded-xl bg-slate-50 p-5 dark:bg-[#0b0f1a]">
                                 <h4 className="text-3xl font-bold text-indigo-500">
-                                    10+
+                                    5+
                                 </h4>
                                 <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
                                     Projects Built
