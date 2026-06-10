@@ -78,7 +78,7 @@ export default function CodingProfiles() {
                         <div className="grid grid-cols-2 gap-4">
                             <div className="rounded-xl bg-slate-50 p-5 dark:bg-[#0b0f1a]">
                                 <h4 className="text-3xl font-bold text-indigo-500">
-                                    300+
+                                    350+
                                 </h4>
                                 <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
                                     Problems Solved
@@ -108,7 +108,7 @@ export default function CodingProfiles() {
                                     B.E.
                                 </h4>
                                 <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
-                                    Computer Engineering
+                                    Data Engineering
                                 </p>
                             </div>
                         </div>

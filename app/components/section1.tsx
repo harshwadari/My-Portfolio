@@ -60,7 +60,7 @@ export default function Section1() {
 
             <p className="mt-6 max-w-xl text-lg text-slate-600 dark:text-slate-400">
               Passionate about transforming data into actionable insights.
-              Interested in Machine Learning, Data Analysis, and Visualization.
+              Interested in Machine Learning, Backend Engineering Roles.
             </p>
 
             {/* buttons */}

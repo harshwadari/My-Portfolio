@@ -25,7 +25,7 @@ export default function About() {
                                 <span className="font-medium text-slate-900 dark:text-white">
                                     Harsh Wadari
                                 </span>
-                                , a Software Developer and aspiring Machine Learning
+                                , a Final Enginering Student  and aspiring Machine Learning
                                 Engineer based in Mumbai, India. I specialize in
                                 building full-stack applications, AI-driven products,
                                 and data-powered solutions. With a strong interest in
@@ -38,7 +38,7 @@ export default function About() {
                             <p>
                                 My journey in technology began with a curiosity about
                                 how software works, leading me to pursue a Bachelor's
-                                degree in Computer Engineering. Along the way, I built
+                                degree in Data Engineering. Along the way, I built
                                 a strong foundation in software development, machine
                                 learning, and problem-solving while creating projects
                                 that solve real-world challenges.
@@ -72,7 +72,7 @@ export default function About() {
                             <div className="grid grid-cols-2 gap-4">
                                 <div className="rounded-xl border border-slate-200 bg-white p-5 dark:border-slate-700 dark:bg-slate-800">
                                     <h4 className="text-2xl font-bold text-indigo-500">
-                                        300+
+                                        350+
                                     </h4>
                                     <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
                                         DSA Problems Solved
@@ -93,7 +93,7 @@ export default function About() {
                                         B.E.
                                     </h4>
                                     <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
-                                        Computer Engineering
+                                        Data Engineering
                                     </p>
                                 </div>
 
@@ -138,7 +138,7 @@ export default function About() {
                                     "Deep Learning",
                                     "Next.js",
                                     "React",
-                                    "PostgreSQL",
+                                    "MYSQL",
                                     "Docker",
                                 ].map((skill) => (
                                     <span
