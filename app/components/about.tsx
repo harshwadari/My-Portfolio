@@ -25,7 +25,7 @@ export default function About() {
                                 <span className="font-medium text-slate-900 dark:text-white">
                                     Harsh Wadari
                                 </span>
-                                , a Final Enginering Student  and aspiring Machine Learning
+                                , a Final Year Enginering Student  and aspiring Machine Learning
                                 Engineer based in Mumbai, India. I specialize in
                                 building full-stack applications, AI-driven products,
                                 and data-powered solutions. With a strong interest in
