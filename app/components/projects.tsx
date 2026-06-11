@@ -61,24 +61,27 @@ const projects = [
             github: "https://github.com/harshwadari/Personal-Finance-Tracker",
         },
     },
-
     {
-        title: "Feature Engineering Using Pandas",
+        title: "Movie Recommendation System",
         description:
-            "Developed a feature engineering pipeline using Pandas and NumPy to transform raw tabular data into machine learning-ready features. Implemented timestamp-based feature extraction, derived new numerical attributes, and performed data preprocessing techniques to improve model readiness and analytical insights.",
+            "Built an end-to-end content-based Movie Recommendation System using NLP, TF-IDF Vectorization, and Cosine Similarity. Developed a FastAPI backend for recommendation serving and a Streamlit frontend for an interactive user experience. Integrated the TMDB API to fetch real-time movie posters, metadata, and details, and deployed the application using Render and Streamlit Cloud.",
         tags: [
             "Python",
+            "Machine Learning",
+            "NLP",
+            "TF-IDF",
+            "Cosine Similarity",
+            "FastAPI",
+            "Streamlit",
+            "TMDB API",
             "Pandas",
-            "NumPy",
-            "Feature Engineering",
-            "Data Preprocessing",
-            "Jupyter Notebook"
+            "Scikit-Learn"
         ],
         links: {
-            demo: "#",
-            github: "https://github.com/harshwadari/Feature-Engineering",
+            demo: "https://movierecommendationsystem-itzydga79ssnnqb2uczlou.streamlit.app/",
+            github: "https://github.com/harshwadari/Movie_Recommendation_System",
         },
-    },
+    }
 
 ]
 
