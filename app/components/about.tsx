@@ -72,7 +72,7 @@ export default function About() {
                             <div className="grid grid-cols-2 gap-4">
                                 <div className="rounded-xl border border-slate-200 bg-white p-5 dark:border-slate-700 dark:bg-slate-800">
                                     <h4 className="text-2xl font-bold text-indigo-500">
-                                        350+
+                                        600+
                                     </h4>
                                     <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
                                         DSA Problems Solved
