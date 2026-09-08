@@ -81,7 +81,30 @@ const projects = [
             demo: "https://movierecommendationsystem-itzydga79ssnnqb2uczlou.streamlit.app/",
             github: "https://github.com/harshwadari/Movie_Recommendation_System",
         },
-    }
+    },
+    {
+        title: "Brain Tumor MRI Segmentation & Classification",
+        description:
+            "Developed an end-to-end MRI analysis pipeline that combines U-Net-based tumor segmentation with GLCM texture feature extraction, PCA dimensionality reduction, and SVM/KNN classification for Glioma, Meningioma, and Pituitary tumors. Built a full-stack application using FastAPI and Streamlit, featuring automated preprocessing, tumor ROI visualization, segmentation results, and classification probabilities.",
+        tags: [
+            "Python",
+            "Deep Learning",
+            "Machine Learning",
+            "U-Net",
+            "GLCM",
+            "PCA",
+            "SVM",
+            "KNN",
+            "FastAPI",
+            "Streamlit",
+            "OpenCV",
+            "Scikit-Learn"
+        ],
+        links: {
+            demo: '#',
+            github: "https://github.com/harshwadari/brain-mri-tumor-segmentation-classification",
+        },
+    },
 
 ]
 
