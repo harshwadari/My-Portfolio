@@ -101,7 +101,7 @@ const projects = [
             "Scikit-Learn"
         ],
         links: {
-            demo: '#',
+            demo: 'https://pureness-resonate-herald.streamlit.app/',
             github: "https://github.com/harshwadari/brain-mri-tumor-segmentation-classification",
         },
     },
